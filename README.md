@@ -57,9 +57,6 @@ Puedes explorar el dashboard en Power BI en el siguiente enlace:
 
 ---
 
-
----
-
 ## 🚀 Próximos pasos
 - ➕ Incluir modelos predictivos simples (regresiones, árboles) para estimar evolución de casos.
 - 🌍 Incorporar indicadores adicionales (gasto en salud, acceso médico, pobreza).
