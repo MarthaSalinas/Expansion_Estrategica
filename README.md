@@ -50,13 +50,10 @@ El análisis se centró en **Argentina, Chile, Colombia, México, Perú y Brasil
 
 ## 📊 Dashboard interactivo
 
-🔗 **Explora el dashboard en Power BI aquí:**
+Puedes explorar el dashboard en Power BI en el siguiente enlace:
 
-[![Ver Dashboard en Power BI](https://img.shields.io/badge/Power%20BI-Open%20Dashboard-yellow?logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiMTE0ZTdkMjktYWZiNi00YjNmLWE4YzMtZWY4ODcxMzUyYjdjIiwidCI6ImQ4MzdlZDExLWY2OTYtNGM4OS04OGZkLTdjY2Q5NmY4NjAxNSJ9&pageName=3a4448a834b8ecb8394c)
+[Ver Dashboard en Power BI](https://app.powerbi.com/view?r=eyJrIjoiMTE0ZTdkMjktYWZiNi00YjNmLWE4YzMtZWY4ODcxMzUyYjdjIiwidCI6ImQ4MzdlZDExLWY2OTYtNGM4OS04OGZkLTdjY2Q5NmY4NjAxNSJ9&pageName=3a4448a834b8ecb8394c)
 
-<p align="center">
-  <img src="docs/dashboard_preview.png" alt="Dashboard Preview" width="700"/>
-</p>
 
 ---
 
