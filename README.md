@@ -31,9 +31,9 @@ El análisis se centró en **Argentina, Chile, Colombia, México, Perú y Brasil
 ---
 
 ## 💡 Principales insights
-- 🇧🇷 **Brasil** lidera en volumen absoluto de casos y vacunación, consistente con su tamaño poblacional.
-- 🇨🇱 **Chile** destaca por alta cobertura vacunal sostenida.
-- 🇵🇪 🇲🇽 **Perú y México** muestran mayores tasas de mortalidad, sugiriendo oportunidad para fortalecer infraestructura.
+- **Brasil** lidera en volumen absoluto de casos y vacunación, consistente con su tamaño poblacional.
+- **Chile** destaca por alta cobertura vacunal sostenida.
+- **Perú y México** muestran mayores tasas de mortalidad, sugiriendo oportunidad para fortalecer infraestructura.
 - 🌡 La temperatura promedio no mostró correlación clara con casos o mortalidad; otros factores son más determinantes.
 
 ---
